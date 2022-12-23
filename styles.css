@@ -1,0 +1,95 @@
+body{
+    text-align: center;
+    margin-top: 0px;
+}
+#h1 {
+    font-family: 'Merriweather', sans-serif;
+}
+.birds{
+    position: absolute;
+    right: 200px;
+    height: 70px;
+    width: 140px;
+}
+.bottom-birds{
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    height: 70px;
+    width: 140px;
+}
+.trees{
+    height: 200px;
+    width: 1000px;
+   position: relative;
+   bottom: 100px;
+   top: 300px;
+}
+.top {
+    margin: 0px;
+    height: 700px;
+    background-color: rgb(142, 203, 172);
+}
+p{
+    position: relative;
+    top: 100px;
+}
+.pro {
+    text-decoration: underline;
+}
+.middle{
+    background-color: rgb(85, 143, 131);
+    height: 500px;
+}
+.my-pic {
+    padding-top: 30px;
+    height: 200px;
+    width: 170px;
+    border-radius: 50%;
+}  
+h1 {
+    position: relative;
+    top: 100px;
+}
+.para{
+    position: relative;
+    top: 25px;  
+}
+.skills{
+    background-color: paleturquoise;
+}
+.skl {
+    text-decoration: underline;
+    position: relative;
+    top: 0px;
+}
+.middle-img{
+    height: 200px;
+    width: 200px;
+}
+.contact-me {
+    background-color: rgb(98, 106, 103);
+    height: 400px;
+}
+.head {
+    position: relative;
+    top: 10px;
+}
+.btn {
+    font-size:18px;
+    font-family: sans-serif;
+    width:200px;
+    height: 15px;
+    border-width:1px;
+    color:rgb(71, 71, 71);
+    border-color:rgb(0, 0, 0);
+    font-weight:normal;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+  
+  .btn:hover {
+    background: rgb(252, 252, 252)
+  }
